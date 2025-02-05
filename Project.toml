@@ -45,7 +45,7 @@ ReverseDiffExt = ["ReverseDiff"]
 
 [compat]
 CSV = "0.10"
-ChainRulesCore = "1.20 - 1.24"
+ChainRulesCore = "1.20 - 1.25"
 DataFrames = "1"
 DiffEqCallbacks = "2.0 - 3.9"
 EzXML = "1.1 - 1.2"
